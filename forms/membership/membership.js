@@ -6,10 +6,10 @@ let name = " "
 btnEnter.onclick=function(){
   name = inptName.value 
   if (members.includes(name) == true) {
-  lblMessage.value = name + ", you are a member"
+  lblMessage.value = name + ", you are a member."
   }
 else {
-  lblMessage.value = name + ", you are not a member"
+  lblMessage.value = name + ", you have been added to the membership roster."
   members.push(name)
   }
 }
