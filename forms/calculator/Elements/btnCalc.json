@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": "auto",
+  "height": 37,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "btnCalc",
-  "left": 193,
+  "left": 43,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 180,
-  "value": "Calculate",
-  "width": "auto"
+  "top": 187,
+  "value": "Add",
+  "width": 85
 }

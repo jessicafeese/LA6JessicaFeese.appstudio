@@ -14,45 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "btnCalc.json"
+        "Select1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "inptNum1.json"
+        "Checkbox1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "inptNum2.json"
+        "Progressbar1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "calculator",
+        "newControls",
         "Elements",
-        "lblOutput.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calculator",
-        "Elements",
-        "btnMultiply.json"
+        "Listgroup1.json"
       ]
     }
   ],
@@ -62,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "calculator",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
